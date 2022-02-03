@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-👨‍🎓 I'm a final semester Electrical Engineering student at Technion - Israel Institute of Technology.  
-🤖 I am specializing in Machine Learning, Signal Processing and Control Systems,   
-🌐 AND MOST IMPORTANTLY - I'm incredibly passionate about using engineering to improve lives and make a positive impact on the world.
+👨‍🎓 I'm a final semester Electrical Engineering student at Technion - Israel Institute of Technology,  
+🤖 Specializing in Machine Learning, Signal Processing and Power Systems and Renewable Energy,  
+🌐 AND MOST IMPORTANTLY - I'm incredibly passionate about using engineering to improve lives and make a positive impact.
 
 🤝 Always looking for a chance to collaborate and contribute to new projects, so [reach out](https://www.linkedin.com/in/itamar-ginsberg/) anytime!
 
