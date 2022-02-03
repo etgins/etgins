@@ -6,7 +6,7 @@
 
 🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
 <p align="center">
-<a href="(https://www.linkedin.com/in/itamar-ginsberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Itamar Ginsberg @ Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itamar-ginsberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Itamar Ginsberg @ Linkedin" height="30" width="40" /></a>
 
   
   <!--
