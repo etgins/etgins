@@ -17,8 +17,9 @@ check them out here -
 
 <p align="center">
 <a href="https://ece.technion.ac.il/" target="blank"><img align="center" src="https://www.nanopack.eu/wp-content/uploads/2017/04/Technion-IIT-TwoLines-Eng-B.jpg" alt="Omdena" height="60"  /></a>
-  <a href="https://omdena.com/" target="blank"><img align="center" src="https://labelbox.com/blog/content/images/2019/07/logo-omdena-v2.2.jpg" alt="Omdena" height="60"  /></a>
   <a href="https://www.udemy.com/" target="blank"><img align="center" src="https://community.udemy.com/t5/image/serverpage/image-id/5269iACE5F3FBCEC35261?v=v2" alt="Udemy" height="64" /></a>
+  <a href="https://omdena.com/" target="blank"><img align="center" src="https://labelbox.com/blog/content/images/2019/07/logo-omdena-v2.2.jpg" alt="Omdena" height="60"  /></a>
+
 
 
 🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
