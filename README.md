@@ -6,6 +6,21 @@
 
 📈 Currently looking for a full-time position as a COMPUTER VISION ENGINEER, where my skills and knowledge can be applied and expanded.  
 
+🏗️ My recent activity includes: 
+- Working on 3 projects toward the end of my studies:  
+check them out here - 
+  - 🐭 [Mice ASD detection]() 
+  - 🐟 [Jellyfish orientation detection]() 
+  - 🔫 [Weapon detection with YOLOv5]()
+- Omdena ['Mastering Computer Vision to Make an Impact' Course]()
+- Udemy [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) Course.
+
+<p align="center">
+<a href="https://ece.technion.ac.il/" target="blank"><img align="center" src="https://www.nanopack.eu/wp-content/uploads/2017/04/Technion-IIT-TwoLines-Eng-B.jpg" alt="Omdena" height="60"  /></a>
+  <a href="https://omdena.com/" target="blank"><img align="center" src="https://labelbox.com/blog/content/images/2019/07/logo-omdena-v2.2.jpg" alt="Omdena" height="60"  /></a>
+  <a href="https://www.udemy.com/" target="blank"><img align="center" src="https://community.udemy.com/t5/image/serverpage/image-id/5269iACE5F3FBCEC35261?v=v2" alt="Udemy" height="64" /></a>
+
+
 🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
 <p align="center">
 <a href="https://www.linkedin.com/in/itamar-ginsberg/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Itamar Ginsberg @ Linkedin" height="36"  /></a>
