@@ -12,7 +12,7 @@ check them out here -
   - 🐭 [Mice ASD detection]() 
   - 🐟 [Jellyfish orientation detection]() 
   - 🔫 [Weapon detection with YOLOv5]()
-- Omdena ['Mastering Computer Vision to Make an Impact' Course]()
+- Omdena ['Mastering Computer Vision to Make a positive Impact'](https://omdena.com/course/mastering-computer-vision-to-make-an-impact-real-world-case-study/) Course
 - Udemy [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) Course.
 
 <p align="center">
