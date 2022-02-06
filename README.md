@@ -13,7 +13,7 @@ check them out here -
   - 🐟 [Jellyfish orientation detection]() 
   - 🔫 [Weapon detection with YOLOv5]()
 - Omdena ['Mastering Computer Vision to Make a positive Impact'](https://omdena.com/course/mastering-computer-vision-to-make-an-impact-real-world-case-study/) Course
-- Udemy [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) Course.
+- Udemy ['Python for Computer Vision with OpenCV and Deep Learning'](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) Course.
 
 <p align="center">
 <a href="https://ece.technion.ac.il/" target="blank"><img align="center" src="https://www.nanopack.eu/wp-content/uploads/2017/04/Technion-IIT-TwoLines-Eng-B.jpg" alt="Omdena" height="60"  /></a>
