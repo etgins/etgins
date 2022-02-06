@@ -8,8 +8,8 @@
 
 🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
 <p align="center">
-<a href="https://www.linkedin.com/in/itamar-ginsberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Itamar Ginsberg @ Linkedin" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/itamar-ginsberg/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Itamar Ginsberg @ Linkedin" height="36"  /></a>
+  <a href="mailto:itamar.gins@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Itamar Ginsberg @ Gmail" height="30" /></a>
   
   <!--
 **etgins/etgins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
