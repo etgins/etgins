@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 👨‍🎓 I'm a final semester Electrical Engineering student at Technion - Israel Institute of Technology,  
-🤖 Specializing in Machine Learning, Signal Processing and Power Systems and Renewable Energy,  
+🤖 Specializing in Machine Learning, Signal and Image Processing and Power Systems and Renewable Energy,  
 🌐 AND MOST IMPORTANTLY - I'm incredibly passionate about using engineering to improve lives and make a positive impact.
 
 📈 Currently looking for a full-time position as a COMPUTER VISION ENGINEER, where my skills and knowledge can be applied and expanded.  
