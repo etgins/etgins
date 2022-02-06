@@ -4,6 +4,8 @@
 🤖 Specializing in Machine Learning, Signal Processing and Power Systems and Renewable Energy,  
 🌐 AND MOST IMPORTANTLY - I'm incredibly passionate about using engineering to improve lives and make a positive impact.
 
+📈 Currently looking for a full-time position as a COMPUTER VISION ENGINEER, where my skills and knowledge can be applied and expanded.  
+
 🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
 <p align="center">
 <a href="https://www.linkedin.com/in/itamar-ginsberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Itamar Ginsberg @ Linkedin" height="30" width="40" /></a>
