@@ -9,9 +9,9 @@
 🏗️ My recent activity includes: 
 - Working on 3 projects toward the end of my studies:  
 check them out here - 
-  - 🐭 [Mice ASD detection]() 
-  - 🐟 [Jellyfish orientation detection]() 
-  - 🔫 [Weapon detection with YOLOv5]()
+  - 🐭 [Mice ASD diagnosis](https://github.com/etgins/Mice_ASD_Diagnosis) 
+  - 🐟 [Jellyfish orientation detection](https://github.com/etgins/jellyfish_orientation) 
+  - 🔫 [Weapon detection with YOLOv5](https://github.com/etgins/weapon_detection_with_transfer_learning)
 - Omdena ['Mastering Computer Vision to Make a positive Impact'](https://omdena.com/course/mastering-computer-vision-to-make-an-impact-real-world-case-study/) Course
 - Udemy ['Python for Computer Vision with OpenCV and Deep Learning'](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) Course.
 
