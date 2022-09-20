@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-👨‍🎓 I'm a final semester Electrical Engineering student at Technion - Israel Institute of Technology,  
+👨‍🎓 BSc in Electrical Engineering student at Technion - Israel Institute of Technology,  
 🤖 Specializing in Machine Learning, Signal and Image Processing and Power Systems and Renewable Energy,  
 🌐 AND MOST IMPORTANTLY - I'm incredibly passionate about using engineering to improve lives and make a positive impact.
 
@@ -10,7 +10,7 @@
 - Working on 3 projects toward the end of my studies:  
 check them out here - 
   - 🐭 [Mice ASD diagnosis](https://github.com/etgins/Mice_ASD_Diagnosis) 
-  - 🐟 [Jellyfish orientation detection](https://github.com/etgins/jellyfish_orientation) 
+  - 🐟 [Jellyfish orientation detection](https://github.com/etgins/jellyfish_orientation) - repository currently under construction
   - 🔫 [Weapon detection with YOLOv5](https://github.com/etgins/weapon_detection_with_transfer_learning)
 - Omdena ['Mastering Computer Vision to Make a positive Impact'](https://omdena.com/course/mastering-computer-vision-to-make-an-impact-real-world-case-study/) Course
 - Udemy ['Python for Computer Vision with OpenCV and Deep Learning'](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) Course.
