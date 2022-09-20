@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi! 👋
 
 👨‍🎓 BSc in Electrical Engineering student at Technion - Israel Institute of Technology,  
 🤖 Specializing in Machine Learning, Signal and Image Processing and Power Systems and Renewable Energy,  
