@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-👨‍🎓 BSc in Electrical Engineering student at Technion - Israel Institute of Technology,  
+👨‍🎓 BSc in Electrical Engineering from Technion - Israel Institute of Technology,  
 🤖 Specializing in Machine Learning, Signal and Image Processing and Power Systems and Renewable Energy,  
 🌐 AND MOST IMPORTANTLY - I'm incredibly passionate about using engineering to improve lives and make a positive impact.
 
