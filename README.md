@@ -21,7 +21,26 @@ check them out here -
   <a href="https://www.udemy.com/" target="blank"><img align="center" src="udemy.jpg" alt="Udemy" height="64" /></a>
   <a href="https://omdena.com/" target="blank"><img align="center" src="omdena.png" alt="Omdena" height="60"  /></a>
 
-
+### Languages and Tools:
+<p align="center">
+<a href="https://www.python.org" target="_blank"> <img align="center" alt="Python" height="36" src="https://github.com/etgins/etgins/blob/main/python-5.svg?raw=true"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center" alt="C++" height="36" src="https://github.com/etgins/etgins/blob/main/c%2B%2B.png"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="center" alt="Matlab" height="36" src="https://github.com/etgins/etgins/blob/main/matlab.png"/> </a>
+  <br />
+  <br />
+<a href="https://opencv.org/" target="_blank"> <img align="center" alt="openCV" height="36" src="https://github.com/etgins/etgins/blob/main/opencv.png"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img align="center" alt="pandas" height="36" src="https://github.com/etgins/etgins/blob/main/pandas_mark.svg"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank"> <img align="center" alt="seaborn" height="36" src="https://github.com/etgins/etgins/blob/main/seaborn.svg"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img align="center" alt="pytorch" height="36" src="https://github.com/etgins/etgins/blob/main/pytorch-logo.png?raw=true"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img align="center" alt="scikit-learn" height="36" src="https://github.com/etgins/etgins/blob/main/sklearn.png"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img align="center" alt="tensorflow" height="36" src="https://github.com/etgins/etgins/blob/main/Tensorflow_logo.png"/> </a>
+  <br />
+  <br />
+<img align="center" alt="Linux" height="36" src="https://github.com/etgins/etgins/blob/main/linux.png" />
+<img align="center" alt="GitHub" height="36" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+  
 
   ### 🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
 <p align="center">
