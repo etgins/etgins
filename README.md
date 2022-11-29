@@ -1,12 +1,13 @@
-## Hi! 👋
+## Hi, I'm Itamar! 👋
 
+  ### A little about me - 
 👨‍🎓 BSc in Electrical Engineering from Technion - Israel Institute of Technology,  
 🤖 Specializing in Machine Learning, Signal and Image Processing and Power Systems and Renewable Energy,  
 🌐 AND MOST IMPORTANTLY - I'm incredibly passionate about using engineering to improve lives and make a positive impact.
 
 📈 Currently looking for a full-time position as a COMPUTER VISION ENGINEER, where my skills and knowledge can be applied and expanded.  
 
-🏗️ My recent activity includes: 
+  ### 🏗️ My recent activity includes: 
 - Working on 3 projects toward the end of my studies:  
 check them out here - 
   - 🐭 [Mice ASD diagnosis](https://github.com/etgins/Mice_ASD_Diagnosis) 
@@ -22,10 +23,11 @@ check them out here -
 
 
 
-🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
+  ### 🤝 Always looking for a chance to collaborate and contribute to new projects, so reach out anytime!
 <p align="center">
 <a href="https://www.linkedin.com/in/itamar-ginsberg/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Itamar Ginsberg @ Linkedin" height="36"  /></a>
   <a href="mailto:itamar.gins@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Itamar Ginsberg @ Gmail" height="30" /></a>
+  
   
   <!--
 **etgins/etgins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
