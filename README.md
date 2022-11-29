@@ -36,8 +36,8 @@ check them out here -
 <a href="https://www.tensorflow.org/" target="_blank"> <img align="center" alt="tensorflow" height="36" src="https://github.com/etgins/etgins/blob/main/Tensorflow_logo.png"/> </a>
   <br />
   <br />
-<img align="center" alt="Linux" height="36" src="https://github.com/etgins/etgins/blob/main/linux.png" />
-<img align="center" alt="GitHub" height="36" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://www.linux.org/" target="_blank"> <img align="center" alt="Linux" height="36" src="https://github.com/etgins/etgins/blob/main/linux.png" />
+<a href="https://github.com/" target="_blank"> <img align="center" alt="GitHub" height="36" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
   
